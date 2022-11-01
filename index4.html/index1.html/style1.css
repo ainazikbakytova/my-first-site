@@ -1,0 +1,29 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }  
+.wrapper1{
+background: grey;
+display: flex;
+justify-content:space;
+height: 500px;
+align-items: baseline;
+flex-wrap: wrap;
+   flex-direction: row-reverse;  
+}
+
+.box{ 
+    
+     width: 100px;
+       color: rgb(174, 248, 3); 
+    font-size: 20px;
+    height: 100px;
+    background: red;
+}
+
+.small{
+    height: 70px;
+    align-self: center;
+}
+ 

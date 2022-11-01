@@ -1,0 +1,64 @@
+input{
+    border-radius: 20px;
+    width: 1000px;
+    height: 25px;
+}
+h3{
+    left: 100px;
+    text-align: end;
+}
+tr{
+    border: px;
+    background-color: rgb(133, 133, 133);
+}
+table{
+    margin-top: 10px;
+}
+.one{
+    background-color: white;
+}
+.two{
+    display: flex;
+    align-items: center;
+}
+.border1{
+    border: 3px solid black;
+    width: 500px;
+    height: 150px;
+  
+}
+.border2{
+    border: 3px solid black;
+    width: 500px;
+    height: 150px;
+
+}
+.bg{
+    width: 100px;
+    background-color: white;
+}
+.buy{
+    margin-top: 100px;
+margin-left: 50px;
+}
+.foto{
+    display: inline;
+}
+.parent{
+    display: flex;
+}
+.fa-star{
+    font-size: 30px;
+    margin-top: 15px;
+    margin-left: 10px;
+
+}
+button{
+   margin-left: 410px;
+   margin-top: 20px;
+   border: 3px solid black;
+}
+span{
+    margin-left: 120px;
+    
+}
